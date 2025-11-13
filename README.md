@@ -64,7 +64,6 @@ END
 ```
 
 ## OUTPUT
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/715bc2b6-b6b4-4e6e-a031-1b77c79a794d" />
 
 ## RESULT
